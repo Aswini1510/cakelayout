@@ -9,7 +9,7 @@ header h3{background-color: #895129;text-align: center;margin: 0;padding: 20px;c
 .search-box input[type="text"]{flex: 1;border: none ;outline: none;padding: 8px;font-size: 18px;}
 .search-box button{background: none;border: none;padding: 5px;}
 .search-box  img {width: 20px;height: 20px;padding-left: 250px;}
-.icon{position: relative;float: right;margin-right: 130px;margin-top: 45px;}
+.icon{position: relative;float: right;margin-right: 100px;margin-top: 45px;}
 
  @media (max-width: 768px) {header, footer {padding: 15px;font-size: 0.9rem;}}
 @media (max-width: 480px) {header, footer {padding: 10px;font-size: 0.8rem;text-align: left;}
